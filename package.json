@@ -4,7 +4,8 @@
   "description": "illustration of an issue with attributes and props",
   "scripts": {
     "build": "stencil build",
-    "dev": "sd concurrent \"stencil build --dev --watch\" \"stencil-dev-server\" ",
+    "dev":
+      "sd concurrent \"stencil build --dev --watch\" \"stencil-dev-server\" ",
     "serve": "stencil-dev-server",
     "start": "npm run dev",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,7 +14,7 @@
   "license": "UNLICENSED",
   "devDependencies": {
     "@stencil/dev-server": "0.0.18",
-    "@stencil/utils": "0.0.4",
+    "@stencil/utils": "0.0.4"
   },
   "dependencies": {
     "@stencil/core": "0.2.2"

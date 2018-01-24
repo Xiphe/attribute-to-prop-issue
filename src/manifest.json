@@ -1,0 +1,9 @@
+{
+  "name": "Test",
+  "short_name": "Test",
+  "start_url": "/",
+  "display": "standalone",
+  "icons": [],
+  "background_color": "#ffffff",
+  "theme_color": "#000000"
+}
